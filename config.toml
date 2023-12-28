@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://jaume.sh"
 title = "jaume.sh"
 theme = "hugo-coder"
 languageCode = "en"
@@ -14,10 +14,10 @@ noClasses = false
 [params]
 author = "Jaume Pena"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Jaume Pena's personal website"
-keywords = "blog,security,cyber,penetration testing,personal"
+description = "Jaume Pena - penetration tester."
+keywords = "blog,security,cyber,penetration testing,personal,linkedin"
 info = ["Penetration tester"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/avatar.jpeg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2023
@@ -76,11 +76,11 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/jaumeee/"
+# [[params.social]]
+# name = "Github"
+# icon = "fa fa-2x fa-github"
+# weight = 1
+# url = "https://github.com/jaumeee/"
 
 
 # [[params.social]]
@@ -122,12 +122,12 @@ url = "about/"
 # weight = 2
 # url = "posts/"
 
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+# [[languages.en.menu.main]]
+# name = "Projects"
+# weight = 3
+# url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 5
 url = "contact/"

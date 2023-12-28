@@ -3,7 +3,7 @@ title = "About me"
 author = "Jaume Pena"
 +++
 # Jaume Pena
-OSCP | Penetration tester - [LinkedIn](https://www.linkedin.com/in/jaume-pena) | [GitHub](https://github.com/jaumeee)
+OSCP | Penetration tester - [LinkedIn](https://www.linkedin.com/in/jaume-pena)
 ***
 
 I am a Penetration Tester at Capital One's Offensive Security team, where I lead and perform network, web-based and API security assessments. Currently hold OSCP and working towards OSEP certification.

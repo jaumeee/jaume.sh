@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on jaume.sh</title>
-    <link>http://www.example.com/authors/</link>
+    <link>http://jaume.sh/authors/</link>
     <description>Recent content in Authors on jaume.sh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://jaume.sh/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
